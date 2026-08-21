@@ -1,0 +1,21 @@
+/*
+Theme Name: SocialPulse360
+Theme URI: https://socialpulse360.com
+Author: SocialPulse Team
+Author URI: https://socialpulse360.com
+Description: A high-converting, ultra-fast enterprise SaaS platform for social media growth agency targeting US and UK markets.
+Version: 1.0
+Text Domain: socialpulse360
+*/
+
+/* 
+Note: All main styles are handled via Tailwind CSS CDN in the header for speed, 
+but you can add custom CSS rules here later if needed.
+*/
+
+body {
+    background-color: #0B0F17;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
